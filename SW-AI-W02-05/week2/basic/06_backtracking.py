@@ -101,4 +101,3 @@ if __name__ == "__main__":
     result4 = combinations(n4, k4)
     print(f"C({n4}, {k4}) = {result4}")
     print(f"총 {len(result4)}개의 조합")
-
